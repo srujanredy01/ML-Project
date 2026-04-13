@@ -12,6 +12,8 @@ This project predicts bike ride demand using machine learning techniques. It ana
 ├── myapp.py                      # Application script
 ├── requirements.txt              # Dependencies
 └── README.md                     # Project documentation
+
+
 ⚙️ Technologies Used
 Python
 Pandas, NumPy
